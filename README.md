@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=pubi!　pubi!　pubi!　pubi!&fontSize=80&animation=fadeIn&fontColor=FFFFFF&fontAlignY=35&stroke=000000&strokeWidth=0.7&color=F5EB8F)
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=pubi?　pubi?　pubi?　pubi?&desc=======================================================================&descAlignY=7&fontSize=75&animation=fadeIn&fontColor=FFFFFF&fontAlignY=37&stroke=000000&strokeWidth=0.6&&color=0:F5EB8F,100:F7C161)
 <!--
 **pu-bi/pu-bi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
