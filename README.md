@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=pubi&fontSize=75&animation=fadeIn&fontColor=FFFFFF&fontAlignY=38&stroke=000000&strokeWidth=0.6&&color=0:F5EB8F,100:F7C161)
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20to%20Pubi's%20room&fontSize=70&animation=fadeIn&fontColor=FFFFFF&fontAlignY=40&stroke=000000&strokeWidth=0.6&&color=0:F5EB8F,100:F7C161)
 <h1 align="center">Nice to meet you!😄 </h1>
 <p align='center'>I am Hyeonyoung Park.
 <br>I am majoring in 'Public Relations and Advertising' and 'Business Analytics' at Sookmyung Women's University❄️.</br>
