@@ -38,7 +38,14 @@ Here are some ideas to get you started:
 
 <p>
   <br><br>
+  <h2 align="center">☘️Certificate☘️</h2>
+<p align="center">- ADsP<br>
+- Computer Specialist in Spreadsheet & Database Level-1(컴활)</p>
+
+<p>
+  <br><br>
 <h2 align="center">🌻Contact🌻</h2>
 <p align="center">
 <a href='mailto:pahy@naver.com'><img src='https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:pahy@naver.com'/></a>
 <a href="mailto:pahy98@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:pahy98@sookmyung.ac.kr"/></a></p>
+
