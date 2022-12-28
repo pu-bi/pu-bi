@@ -14,9 +14,17 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20to%20Pubi's%20room&fontSize=70&animation=fadeIn&fontColor=FFFFFF&fontAlignY=40&stroke=000000&strokeWidth=0.6&&color=0:F5EB8F,100:F7C161)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mitr&pause=1000&color=F8C823D1&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%F0%9F%8C%B1+Don't+be+too+timid+and+squeamish+about+your+actions.+;All+life+is+an+experiment.+The+more+experiments+you+make+the+better.+%F0%9F%8C%B1" alt="Typing SVG" /></a>
+
+<p>
+<br>
 <h1 align="center">Nice to meet you!😄 </h1>
 <p align='center'>I am Hyeonyoung Park.
-<br>I am majoring in 'Public Relations and Advertising' and 'Business Analytics' at Sookmyung Women's University❄️.</br>
+<br>I am majoring in **Public Relations and Advertising** and **Business Analytics** at Sookmyung Women's University❄️.</br>
+
+
+
 </p>
 
 <p>
