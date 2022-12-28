@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br>
 <h1 align="center">Nice to meet you!😄 </h1>
 <p align='center'>I am Hyeonyoung Park.
-<br>I am majoring in **Public Relations and Advertising** and **Business Analytics** at Sookmyung Women's University❄️.</br>
+<br>I am majoring in 'Public Relations and Advertising' and 'Business Analytics' at Sookmyung Women's University❄️.</br>
 
 
 
